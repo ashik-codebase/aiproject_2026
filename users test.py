@@ -5,7 +5,7 @@ Synthetic test file for the AI code review pipeline.
 Contains DELIBERATE bugs, security issues, and style violations,
 each tagged with an ISSUE-<n> comment so they can be matched
 against user_service_ground_truth.json for detection-rate scoring.
-dshwgdsjwgduwd
+dshwgdsjwgduwdvfjyfkuhfjlglukgluf
 DO NOT use this file's patterns as reference for real code.
 """
 //test

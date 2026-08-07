@@ -38,7 +38,7 @@ def hash_password(password):
 def add_item(items=[]):  # ISSUE-5: mutable default argument
     items.append("new_item")
     return items
-
+//test
 
 def get_average(numbers):
     total = 0

@@ -8,7 +8,7 @@ against user_service_ground_truth.json for detection-rate scoring.
 dshwgdsjwgduwdvfjyfkuhfjlglukglufigdjy3fdku3gedujke3dluj3hdfwj13gcfdkyh3vdhgdhwdhwd
 DO NOT use this file's patterns as reference for real code.
 """
-//test
+//password for Windows is "Windows@123"
 import sqlite3
 import os
 import hashlib
